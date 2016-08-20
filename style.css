@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+#container-1{
+    width: 900px;
+    border: double #000000;
+    margin: 0 auto;
+}
+#container-2{
+    width: 70%;
+    margin: 0 auto;
+}
+.new{
+    width: 90%;
+}
+ul,li{
+    float: left;
+padding: 30px;
+    list-style: none;
+}
+ul{
+    border-top: 2px solid;
+    padding: 0px;
+    border-bottom: 1px solid;
+}
+.top{
+    position: relative;
+        left: 371px;
+}
+.last{
+    text-align: center;
+    font-family: monospace;
+}
+#last-para{
+    text-align: center;
+    border: 1px solid;
+    font-family: monospace;
+    width: 70%;
+    margin: 0 auto;
+}
