@@ -4,9 +4,8 @@ body{
 
 }
 #container-1{
-    width: 900px;
-    border: double #000000;
-    margin: 0 auto;
+
+    
 }
 #container-2{
     width: 70%;
@@ -39,4 +38,7 @@ ul{
     font-family: monospace;
     width: 70%;
     margin: 0 auto;
+}
+#contact{
+    background: url(images/ee.jpg) no-repeat fixed;
 }
